@@ -1,3 +1,3 @@
 # Lab 7
 ## Chris Kim
-## <Deployed Github Pages URL>
+## (https://shkimsito.github.io/sp23-cse110-lab7/)
