@@ -89,9 +89,9 @@ async function getRecipes() {
       // A5. TODO - Create a try / catch block. A6-A9 is try, A10-A11 catch.
       try {
         // A6. TODO - For each URL in that array, fetch the URL
-        let response = await fetch(recipeUrl);
+        const response = await fetch(recipeUrl);
         // A7. TODO - For each fetch response, retrieve the JSON from it using .json().
-        let recipe = await response.json();
+        const recipe = await response.json();
         // A8. TODO - Add the new recipe to the recipes array
         recipes.push(recipe);
         // A9. TODO - Check if all of the recipes retreived.
