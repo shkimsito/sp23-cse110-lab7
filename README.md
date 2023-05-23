@@ -1,2 +1,2 @@
 # Chris Kim (No Partners)
-[More Recipes] (https://shkimsito.github.io/sp23-cse110-lab7/)
+[More Recipes](https://shkimsito.github.io/sp23-cse110-lab7/)
